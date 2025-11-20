@@ -231,3 +231,18 @@ GEMINI_API_KEY=your_key
 
 **Screenshots**
 
+## 📸 Screenshots
+
+### 🏠 Homepage
+![Homepage](./screenshots/homepage.PNG)
+![Home Page](./screenshots/home%20page.PNG)
+
+### 📊 Dashboard
+![Dashboard](./screenshots/dashboard1.PNG)
+
+### 🎤 Interview Confirmation
+![Interview Confirmation](./screenshots/interview.PNG)
+
+### 🛠️ Workflow Page
+![Workflow Page](./screenshots/workflow.PNG)
+
