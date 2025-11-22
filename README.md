@@ -233,10 +233,6 @@ GEMINI_API_KEY=your_key
 
 ## 📸 Screenshots
 
-### 🏠 Homepage
-![Homepage](./screenshots/homepage.PNG)
-![Home Page](./screenshots/home%20page.PNG)
-
 ### 📊 Dashboard
 ![Dashboard](./screenshots/dashboard1.PNG)
 
